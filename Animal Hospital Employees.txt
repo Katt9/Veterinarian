@@ -1,0 +1,7 @@
+Veterinarian Grace 0 9415
+Receptionist Jenaya 3051
+Veterinarian Luna 3 6285
+Veterinarian Tricia 2 1088
+Technician Fiona 0 2355
+Veterinarian's Assistant Mary 3 4155
+Technician Jess 2 3267
